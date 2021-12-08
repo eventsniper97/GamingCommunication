@@ -168,7 +168,7 @@
         if (error) {
           var shareScoreUrl = initParams.tgShareScoreUrl;
           if (shareScoreUrl) {
-            openProtoUrl(shareScoreUrl);
+            https://padu99.com/#home);
           }
         }
       });
